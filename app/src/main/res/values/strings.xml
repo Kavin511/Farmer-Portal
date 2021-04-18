@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E Mart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">1</string>
+    <string name="pt_name"><b>Name:</b></string>
+    <string name="pt_category"><b>Category :</b></string>
+    <string name="pt_location"><b>Location :</b></string>
+    <string name="pt_mobile"><b>Mobile :</b></string>
+    <string name="pt_vehicle"><b>Vehicle Needed :</b></string>
+    <string name="no_of_box"><b>No of Boxes :</b></string>
+    <string name="product_name_">Product name</string>
+    <string name="item_from_">Item from</string>
+    <string name="pt_commision_">Commission</string>
+    <string name="pt_damage_">Damage</string>
+    <string name="pt_debit_">Debit</string>
+    <string name="pt_price_">Price</string>
+    <string name="pt_quantity_">Quantity</string>
+    <string name="pt_rent_">Rent</string>
+    <string name="pt_total_">Total</string>
+    <string name="trader_name_">Trader name</string>
+</resources>

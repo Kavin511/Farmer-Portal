@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653614408065",
+    "firebase_url": "https://amman-mart.firebaseio.com",
+    "project_id": "amman-mart",
+    "storage_bucket": "amman-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653614408065:android:63bfed7890b0892ee0c880",
+        "android_client_info": {
+          "package_name": "com.mart.ammanmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653614408065-9ho10slbjpqbcturopo6mda37it6pna1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCKH_WCdZCrFYF_4a97C04fLMMDD-6Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653614408065-9ho10slbjpqbcturopo6mda37it6pna1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
