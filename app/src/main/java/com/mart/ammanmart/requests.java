@@ -170,7 +170,7 @@ public class requests extends Fragment {
                             {
                                 Toast.makeText(getContext(),"Mail id already registered !",Toast.LENGTH_LONG).show();
                             }
-                            mAuth.signInWithEmailAndPassword("kowsalyakowsi106@gmail.com","Kowsi@106");
+                            mAuth.signInWithEmailAndPassword("admin@gmail.com","admin");
                         }
                     });
                             }
